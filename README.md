@@ -49,9 +49,11 @@ Eylül 2026'da **Bilgisayar Mühendisliği** bölümünden mezun olacak, C# / .N
 <img src="https://github-readme-stats.vercel.app/api?username=mustafabilghn&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabilghn&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabilghn&hide_border=true&theme=default" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mustafabilghn&hide_border=true&theme=default" alt="GitHub Streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=mustafabilghn&theme=flat&no-frame=true&row=1&column=6" alt="Trophies" />
+
+*(Bu istatistikler ücretsiz, paylaşımlı bir servisten geliyor; bazen yoğunluktan birkaç dakika geç yüklenebiliyor — sayfayı yenilemen genelde yeterli.)*
 
 </div>
 
@@ -59,13 +61,11 @@ Eylül 2026'da **Bilgisayar Mühendisliği** bölümünden mezun olacak, C# / .N
 
 ### 📌 Öne Çıkan Proje — FitTracker
 
-<div align="center">
-
-[![FitTracker Repo](https://github-readme-stats.vercel.app/api/pin/?username=mustafabilghn&repo=FitTracker&theme=default&hide_border=true)](https://github.com/mustafabilghn/FitTracker)
-
-</div>
-
-Groq / Llama 3.3 70B destekli **FitBot** yapay zeka koçu, JWT + Google OAuth 2.0 (PKCE) kimlik doğrulama, ASP.NET Core Web API backend, .NET MAUI Android istemcisi ve Azure App Service üzerinde yayın — uçtan uca tek başıma tasarladığım üç katmanlı bir sistem.
+> **[🔗 github.com/mustafabilghn/FitTracker](https://github.com/mustafabilghn/FitTracker)**
+>
+> LLM destekli akıllı fitness koçluğu uygulaması. Groq / Llama 3.3 70B destekli **FitBot** yapay zeka koçu, JWT + Google OAuth 2.0 (PKCE) kimlik doğrulama, ASP.NET Core Web API backend, .NET MAUI Android istemcisi ve Azure App Service üzerinde yayın — uçtan uca tek başıma tasarladığım üç katmanlı bir sistem.
+>
+> `C#` `ASP.NET Core` `.NET MAUI` `Azure` `Entity Framework Core` `Groq API`
 
 ---
 
