@@ -51,7 +51,7 @@ Eylül 2026'da **Bilgisayar Mühendisliği** bölümünden mezun olacak, C# / .N
 
 <img src="https://streak-stats.demolab.com/?user=mustafabilghn&hide_border=true&theme=default" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=mustafabilghn&theme=flat&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://github-profile-trophy-gamma-two.vercel.app/?username=mustafabilghn&theme=flat&no-frame=true&row=1&column=6" alt="Trophies" />
 
 </div>
 
