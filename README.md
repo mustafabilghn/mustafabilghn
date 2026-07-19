@@ -46,14 +46,12 @@ Eylül 2026'da **Bilgisayar Mühendisliği** bölümünden mezun olacak, C# / .N
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mustafabilghn&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabilghn&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-six-lime-50.vercel.app/api?username=mustafabilghn&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-six-lime-50.vercel.app/api/top-langs/?username=mustafabilghn&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=mustafabilghn&hide_border=true&theme=default" alt="GitHub Streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=mustafabilghn&theme=flat&no-frame=true&row=1&column=6" alt="Trophies" />
-
-*(Bu istatistikler ücretsiz, paylaşımlı bir servisten geliyor; bazen yoğunluktan birkaç dakika geç yüklenebiliyor — sayfayı yenilemen genelde yeterli.)*
 
 </div>
 
