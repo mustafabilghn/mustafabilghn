@@ -66,9 +66,3 @@ Eylül 2026'da **Bilgisayar Mühendisliği** bölümünden mezun olacak, C# / .N
 > `C#` `ASP.NET Core` `.NET MAUI` `Azure` `Entity Framework Core` `Groq API`
 
 ---
-
-<div align="center">
-
-*"Bugün yazdığın kod, yarının deneyimi."*
-
-</div>
