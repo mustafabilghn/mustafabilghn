@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 Hakkımda
 
-Eylül 2026'da **Bilgisayar Mühendisliği** bölümünden mezun olacak, C# / .NET ekosisteminde backend geliştirmeye odaklanmış bir yazılım geliştiriciyim. Google Play Store'da yayınlanmış, yapay zeka destekli bir mobil uygulama geliştirdim ve şu an **junior yazılım geliştirici** pozisyonları için aktif olarak fırsat arıyorum.
+**Bilgisayar Mühendisliği** bölümünden mezun, C# / .NET ekosisteminde backend geliştirmeye odaklanmış bir yazılım geliştiriciyim. Google Play Store'da yayınlanmış, yapay zeka destekli bir mobil uygulama geliştirdim ve şu an **junior yazılım geliştirici** pozisyonları için aktif olarak fırsat arıyorum.
 
 - 🚀 **Şu an geliştiriyorum:** [FitTracker](https://github.com/mustafabilghn/FitTracker) — LLM destekli akıllı fitness koçluğu uygulaması
 - 🧠 **Yapay zeka entegrasyonu:** Groq / Llama 3.3 70B ile çalışan sohbet tabanlı bir fitness koçu (FitBot) geliştirdim
